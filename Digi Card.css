@@ -1,0 +1,23 @@
+
+body{
+ margin:50px;
+font-family:Verdana;
+}
+.Digicard{
+	width:270px;
+	
+}
+.card{
+	background-color:#ddebf8;
+	border-bottom:8px solid #d8cefe;
+	text-align:center;
+	width:700px;
+	//margin-left:auto;
+	//margin-right:auto;
+	justify-content:space-around;
+	//border:3px dotted blue;
+	padding:20px;
+	display:flex;
+	color:#2b2839;
+	margin:0 auto;
+}
